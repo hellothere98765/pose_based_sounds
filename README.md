@@ -4,6 +4,8 @@ To install it, these steps should be followed: https://gist.github.com/emiroglu/
 
 Next, run ./install_requirements.sh.
 
+If something doesn't work, try looking at https://github.com/google-coral/project-posenet - that is the original source for most of the code here.
+
 Then, the requirements.txt file should be installed with pip install -r requirements.txt .
 
 The file to be played should either be cinema.mp3 or specified via --audio in the cmdline.
